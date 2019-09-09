@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <meta charset="utf-8">
+  <head> <u> <h1> <strong>Javascripts </strong> </h1> </u>
+  </head>
+  <body> <img src = "http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/csc106_banner.jpg" alt = "CSC 106 the Joy of Programing Banner" width = "500">
+    <title> Sunny's Programing Portfolio </title> <br>
+    <p>
+      <img src = "http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/home.png" alt = "Home Button" width = "125">
+      <img src = "http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/javascripts.png" alt = "Javascripts Button" width = "125">
+      <img src = "http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/apps.png" alt = "Apps Button" width = "125">
+      <img src = "http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/about.png" alt = "About Me Button" width = "125">
+    </p>
+    <p><h2> Welcome to my Javascripts Page! </h2></p> <br>
+  </body>
+  
+  
+
+</html>
